@@ -1,6 +1,6 @@
 {
   "name": "reddit.stories",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small package to fetch short stories from reddit",
   "main": "index.js",
   "scripts": {
