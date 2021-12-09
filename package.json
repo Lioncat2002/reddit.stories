@@ -1,12 +1,11 @@
 {
   "name": "reddit.stories",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A small package to fetch short stories from reddit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/Lioncat2002/reddit.stories.git"
